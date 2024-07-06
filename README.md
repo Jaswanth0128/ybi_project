@@ -16,7 +16,7 @@ Grid Search for Hyperparameter Tuning: Optimize the SVM classifier's hyperparame
 To run the project, you need the following Python libraries:
 
 pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+numpy,
+scikit-learn,
+matplotlib,
+seaborn,
