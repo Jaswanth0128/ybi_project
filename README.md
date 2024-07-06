@@ -1,4 +1,5 @@
 ##Bank Customer Churn Prediction
+
 #Overview
 This project, completed as part of the YBI Foundation Data Science with Python Internship, involves predicting bank customer churn using various machine learning techniques. The primary goal is to explore and apply different data preprocessing methods and machine learning algorithms to build a robust predictive model.
 
